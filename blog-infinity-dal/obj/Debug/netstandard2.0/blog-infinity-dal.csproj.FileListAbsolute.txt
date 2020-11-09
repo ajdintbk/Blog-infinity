@@ -1,0 +1,9 @@
+C:\Users\ajdin\source\repos\Blog-infinity\blog-infinity-dal\bin\Debug\netstandard2.0\blog-infinity-dal.deps.json
+C:\Users\ajdin\source\repos\Blog-infinity\blog-infinity-dal\bin\Debug\netstandard2.0\blog-infinity-dal.dll
+C:\Users\ajdin\source\repos\Blog-infinity\blog-infinity-dal\obj\Debug\netstandard2.0\blog-infinity-dal.csprojAssemblyReference.cache
+C:\Users\ajdin\source\repos\Blog-infinity\blog-infinity-dal\obj\Debug\netstandard2.0\blog-infinity-dal.AssemblyInfoInputs.cache
+C:\Users\ajdin\source\repos\Blog-infinity\blog-infinity-dal\obj\Debug\netstandard2.0\blog-infinity-dal.AssemblyInfo.cs
+C:\Users\ajdin\source\repos\Blog-infinity\blog-infinity-dal\bin\Debug\netstandard2.0\blog-infinity-dal.pdb
+C:\Users\ajdin\source\repos\Blog-infinity\blog-infinity-dal\obj\Debug\netstandard2.0\blog-infinity-dal.csproj.CoreCompileInputs.cache
+C:\Users\ajdin\source\repos\Blog-infinity\blog-infinity-dal\obj\Debug\netstandard2.0\blog-infinity-dal.dll
+C:\Users\ajdin\source\repos\Blog-infinity\blog-infinity-dal\obj\Debug\netstandard2.0\blog-infinity-dal.pdb
